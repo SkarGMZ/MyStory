@@ -2,4 +2,3 @@ Wolf
 Little Pig
 Middle Pig
 Big Pig
-Bird
